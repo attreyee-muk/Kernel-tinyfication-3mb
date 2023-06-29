@@ -1,5 +1,7 @@
 # Kernel-tinyfication-3.2mb 
 
+![boot up gif](https://media.giphy.com/media/3o7btTODQcZhN6eLQs/giphy.gif)
+
 Many developers and users of Linux Operating System sometimes look for small sized kernels which can boot up properly in their systems and also not hamper their work. 
 Many embedded devices also need to be booted up using a kernel which takes minimal space and does all the functionalities since there is a memory constraint in these devices.
 
